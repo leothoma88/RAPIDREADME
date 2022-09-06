@@ -12,8 +12,8 @@ Heres what the application looks like:
 
 ## Links 
 
-* (https://github.com/leothoma88/LeosWorkDayScheduler)
+* (https://github.com/leothoma88/RAPIDREADME.git)
 
-* (https://leothoma88.github.io/LeosWorkDayScheduler/)
+* (https://leothoma88.github.io/RAPIDREADME/)
 
 * (https://www.youtube.com/watch?v=LAZqMY5I9pk)
