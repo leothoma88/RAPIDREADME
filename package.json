@@ -1,0 +1,19 @@
+{
+  "name": "challenge-node",
+  "version": "1.0.0",
+  "description": "Professional README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "keywords": [
+    "Professional",
+    "README",
+    "Generator"
+  ],
+  "author": "Darrell Leo Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
